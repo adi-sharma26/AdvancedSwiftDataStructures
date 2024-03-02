@@ -58,4 +58,4 @@ Contributions are welcome! If you have ideas for improvements, additional featur
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE.txt) file for details.
